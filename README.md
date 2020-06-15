@@ -2,11 +2,8 @@
 using babel  and webpack
 
 1. run 'npm init -y'
-2. run 'npm install --save-dev babel-core babel-preset-env'
+2. npm 'install --save-dev babel-core babel-preset-env webpack babel-loader webpack-cli -D'
 
-
-3. run 'npm install --save-dev webpack babel-loader'
-4. run 'npm install --save-dev webpack-cli -D'
 
 
 
