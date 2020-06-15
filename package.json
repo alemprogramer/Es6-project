@@ -1,0 +1,29 @@
+{
+  "name": "Es6-project",
+  "version": "1.0.0",
+  "description": "using babel  and webpack",
+  "main": "webpack.config.js",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alemprogramer/Es6-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alemprogramer/Es6-project/issues"
+  },
+  "homepage": "https://github.com/alemprogramer/Es6-project#readme",
+  "devDependencies": {
+    "@babel/core": "^7.10.2",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.1.0",
+    "babel-preset-env": "^1.7.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
