@@ -1,7 +1,7 @@
 # Es6-project
 using babel  and webpack
 
-*git clone https://github.com/alemprogramer/Es6-project.git
+`git clone https://github.com/alemprogramer/Es6-project.git`
 
 1.run `cd Es6-project`
 
