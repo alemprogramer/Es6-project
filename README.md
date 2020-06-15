@@ -2,7 +2,7 @@
 using babel  and webpack
 git clone https://github.com/alemprogramer/Es6-project.git
 
-1.cd Es6-project
+1.run `cd Es6-project`
 
 2. run `npm init -y`
 3. run `npm install --save-dev babel-core babel-preset-env webpack babel-loader webpack-cli -D `
