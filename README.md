@@ -1,11 +1,11 @@
 # Es6-project
 using babel  and webpack
 
-1. run `npm init -y`
-2. run `npm install --save-dev babel-core babel-preset-env webpack babel-loader webpack-cli -D `
-3. run `npm install -D webpack-dev-server`
+`git clone https://github.com/alemprogramer/Es6-project.git`
 
-4. run server `npm start`
+1. run `cd Es6-project`
+2. run `npm install`
+3. run server `npm start`
 
 
 
@@ -13,3 +13,11 @@ using babel  and webpack
 #Error :
   If you get **error :**  'Cannot find module '@babel/core''
   then run `npm install --save-dev @babel/core`
+
+#another way:
+1. run `cd Es6-project`
+
+
+2. run `npm init -y`
+3. run `npm install --save-dev babel-core babel-preset-env webpack babel-loader webpack-cli -D `
+4. run `npm install -D webpack-dev-server`
